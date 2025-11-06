@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cnsqos&show_icons=true" />
 </picture>
 
-![Anurag's GitHub stats]
+
 <!--
 **cnsqos/cnsqos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
