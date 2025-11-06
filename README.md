@@ -1,4 +1,4 @@
-[!header](https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=cnsqo&fontSize=35&reversal=false&textBg=false&animation=fadeIn&descSize=10&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=cnsqo&fontSize=35&reversal=false&textBg=false&animation=fadeIn&descSize=10&descAlignY=60&descAlign=50)
 
 <!--
 **cnsqos/cnsqos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
