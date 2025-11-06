@@ -1,6 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=cnsqos-nl-github&fontSize=35&fontAlignY=45&fontColor=ff)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cnsqos=anuraghazra&hide=contribs,prs)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <!--
 **cnsqos/cnsqos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
